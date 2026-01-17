@@ -1,5 +1,4 @@
-# 📊 Pricing, Rating Reliability, and Demand Concentration Analysis  
-## Online Food Delivery Platforms
+# 📊 Pricing, Rating Reliability, and Demand Concentration Analysis Online Food Delivery Platforms
 
 ## Project Overview
 
